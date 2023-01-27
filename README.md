@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashkasat21" alt="yashkasat21" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes**
+- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins**
 
 - 💬 Ask me about **Java, GraphQL, Junit, Mockito, Gitlab, MongoDB**
 
